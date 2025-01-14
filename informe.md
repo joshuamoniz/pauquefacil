@@ -1,1 +1,0 @@
-informe inicial del proyecto
